@@ -1,0 +1,32 @@
+body {
+  background: -webkit-linear-gradient(to right, #2a0845, #ab0606); 
+  background: linear-gradient(to right, #451008, #a55c41);
+  color: antiquewhite;
+  text-align: center;
+  height: 100%;
+}
+.text1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+header {
+  padding: 2rem;
+  background: linear-gradient(to right, #8e200f, #7d402a);
+  margin-bottom: 5rem;
+
+}
+footer {
+  margin-top: 10rem;
+  padding: 2rem;
+  background: linear-gradient(to right, #8e200f, #7d402a);
+}
